@@ -18,6 +18,8 @@ I've organised the analysis is 3 different notebooks:
 
 The notebooks do not depend on one another for execution (obviously) but one notebook might refer to the analysis conducted in the prior ones.
 
+- [final_model.sav](https://github.com/hitesh-pathak/DS_assessment/blob/main/final_model.sav): This is the pickled file, with the final model from which results have been obtained.
+
 
 
 
